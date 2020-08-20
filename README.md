@@ -1,2 +1,3 @@
 # ocala-newsletter
-Newspaper website
+
+Resposive newspaper website
